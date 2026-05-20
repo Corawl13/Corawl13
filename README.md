@@ -14,7 +14,7 @@
   
 ### 📬 Let's Connect!
 
-[![Telegram](https://img.shields.io/badge/Telegram-Click%20Here-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FearTheBlood)
+[![Telegram](https://img.shields.io/badge/Telegram-Click%20Here-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RyoDev)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Bru0.013)
 
 </div>
